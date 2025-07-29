@@ -1,0 +1,17 @@
+2025-07-30 03-51-19 | INFO | root | Successfully initiated the logger file
+2025-07-30 03-57-36 | INFO | root | Successfully initiated the logger file
+2025-07-30 03-59-05 | INFO | root | Successfully initiated the logger file
+2025-07-30 04-02-55 | INFO | root | Successfully initiated the logger file
+2025-07-30 04-03-41 | INFO | root | Successfully initiated the logger file
+2025-07-30 04-03-45 | ERROR | root | Cannot download data , please check the url https://s3.amazonaws.com/tripdata/2024-06.parquet once
+2025-07-30 04-05-12 | ERROR | root | Cannot download data , please check the url https://s3.amazonaws.com/tripdata/2024-06.parquet once
+2025-07-30 04-06-32 | ERROR | root | Cannot download data , please check the url https://s3.amazonaws.com/tripdata/2024-06.parquet once
+2025-07-30 04-06-37 | INFO | root | Successfully initiated the logger file
+2025-07-30 04-06-39 | ERROR | root | Cannot download data , please check the url https://s3.amazonaws.com/tripdata/202406_citibike-tripdata.parquet once
+2025-07-30 04-07-06 | INFO | root | Successfully initiated the logger file
+2025-07-30 04-07-08 | ERROR | root | Cannot download data , please check the url https://s3.amazonaws.com/tripdata/202406-citibike-tripdata.csv once
+2025-07-30 04-07-49 | ERROR | root | Cannot download data , please check the url https://s3.amazonaws.com/tripdata/202406-citibike-tripdata.csv once
+2025-07-30 04-08-39 | INFO | root | Successfully initiated the logger file
+2025-07-30 04-13-58 | INFO | root | Successfuly fetched the data! https://s3.amazonaws.com/tripdata/202406-citibike-tripdata.zip
+2025-07-30 04-32-57 | INFO | root | Successfuly fetched the data! https://s3.amazonaws.com/tripdata/202407-citibike-tripdata.zip
+2025-07-30 04-37-58 | INFO | root | Successfuly fetched the data! https://s3.amazonaws.com/tripdata/202408-citibike-tripdata.zip
