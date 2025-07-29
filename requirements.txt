@@ -1,0 +1,17 @@
+numpy == 1.24.4
+pandas
+# sqlite3
+path
+scikit-learn
+matplotlib
+seaborn
+scipy
+pydantic 
+ydata-profiling
+ipywidgets
+google-generativeai
+xgboost
+mlflow 
+dagshub
+
+joblib 
